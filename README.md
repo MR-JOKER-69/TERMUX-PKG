@@ -17,16 +17,10 @@
 ## <b>INSTALLATION TERMUX</b>
 
 ```
+NOTE : First You Run pkg install python After Run This Tools
 $ cd
 $ rm -rf TERMUX-PKG
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip install requests
-$ pip install mechanize
-$ pip install bs4
-$ pkg install git
+
 $ git clone https://github.com/MR-JOKER-69/TERMUX-PKG.git
 $ cd TERMUX-PKG
 $ python TERMUX-PKG.py
