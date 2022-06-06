@@ -29,7 +29,7 @@ $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/MR-JOKER-69/TERMUX-PKG.git
 $ cd TERMUX-PKG
-$ python2 TERMUX-PKG.py
+$ python TERMUX-PKG.py
 
 
 Note: This Tools Are Free, So You Use Free FILE-CLONE Tools Enjoy
