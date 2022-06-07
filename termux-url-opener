@@ -22,7 +22,7 @@ echo -e '\033[91m[\033[92m3\033[91m] \033[92m 480P DOWNLOAD VIDEO'
 echo -e '\033[91m[\033[92m4\033[91m] \033[92m 720P DOWNLOAD VIDEO'
 echo -e '\033[91m[\033[92m5\033[91m] \033[92m 1080P DOWNLOAD VIDEO'
 echo -e '\033[91m[\033[92m6\033[91m] \033[92m 2160P DOWNLOAD VIDEO'
-echo -e '\033[91m[\033[92m7\033[91m] \033[92m EXIT TOOLS')
+echo -e '\033[91m[\033[92m7\033[91m] \033[92m EXIT TOOLS'
 command='-no-mtime -o /data/data/com.termux/files/home/storage/shared/Youtube/%(title)s.%(ext)s -f'
 
 #Edit From Oak Atsume 
