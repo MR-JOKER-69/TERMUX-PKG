@@ -1,6 +1,6 @@
 <h1 align="center"> MR-JOKER-69 </h1>
 
-<h1 align="center"> TOOLS NAME: TERMUX-PKG 2</h1>
+<h1 align="center"> TOOLS NAME: TERMUX-PKG </h1>
 <h1 align="center"> TERMUX PKG INSTALL TOOLS</h1>
 
 <h2 align="center"> FREE TOOLS</h2>
